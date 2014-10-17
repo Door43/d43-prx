@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prx:home|Door43 (prx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prx|d43-prx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prx/archive/master.zip|d43-prx.zip]]
+
+**Recent Changes**
+{{changes>ns = prx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prx|Ethnologue data]]
+
